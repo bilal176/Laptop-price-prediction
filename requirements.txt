@@ -1,0 +1,10 @@
+1. Install these libraries
+
+streamlit
+sklearn
+
+2.This is streamlit app browser.
+3.to open this project run the command "streamlit run app.py"
+4.A browser will appear.
+5. Put the values and get the expected result.
+ 
